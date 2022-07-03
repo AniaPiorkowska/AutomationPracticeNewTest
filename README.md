@@ -1,4 +1,1 @@
 # gitMyProjectAutomation
-# gitMyProjectAutomation
-# gitMyProjectAutomation
-# gitMyProjectAutomation
